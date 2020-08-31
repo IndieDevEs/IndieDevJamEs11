@@ -5,4 +5,4 @@ Envía Pull Request a este repositorio, agrega tu juego en una carpeta nueva con
 
 # Lista de juegos:
 
-- 
+- Reflejos De Sangre : https://peryloth.itch.io/reflejos-de-sangre -> https://github.com/luisplata/JuegoDeMisterio
